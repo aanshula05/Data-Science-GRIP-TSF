@@ -14,12 +14,12 @@ Language Used: Python
 Algorithm: Linear Regression
 
 
-## Task 2(Prediction using unsupervised learning)
+## Task 6(Prediction using Decision Tree)
 Problem Statement: 
-To predict the optimum number of clusters and represent it visually.
+Create a Decision tree classifer and visualize it.
 
 IDE Used: Jupyter Notebook
 
 Language Used: Python
 
-Algorithm Used: K-Means clustering
+Algorithm Used: Decision Tree Classifier
